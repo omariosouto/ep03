@@ -33,6 +33,8 @@ module.exports = {
 }
 ```
 
+- Add esse Script: `"build:watch": "webpack --watch --mode production",`
+
 ## Avançando no rolê
 
 - Vamos adicionar o suporte pro React!
